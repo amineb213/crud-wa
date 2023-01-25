@@ -22,11 +22,11 @@ require_once('close.php');
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Liste des libelle</title>
+    <title>Liste des libelles</title>
 </head>
 <body>
 
-    <h1>Liste des libelle</h1>
+    <h1>Liste des libelles</h1>
     <table>
         <thead>
             <th>ID</th>
