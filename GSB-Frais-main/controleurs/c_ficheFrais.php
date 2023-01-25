@@ -10,7 +10,7 @@ switch($action){
             $etat = $_REQUEST['etat'];
             $id = $_REQUEST['idFiche'];
 			$pdo->changeEtat($id, $etat);
-            header('Location: /index.php?uc=ficheFrais');
+            header('Location: /GSB-Frais-main/index.php?uc=ficheFrais');
 		break;
 	}
 }
